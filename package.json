@@ -1,0 +1,17 @@
+{
+  "name": "fake-api-json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API/index.js",
+  "scripts": {
+    "start": "node API/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
+}
